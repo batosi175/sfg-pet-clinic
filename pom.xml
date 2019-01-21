@@ -34,6 +34,5 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:batosi175/sfg-pet-clinic.git</developerConnection>
-        <tag>initial</tag>
     </scm>
 </project>
